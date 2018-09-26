@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=beerbear
+POSTGRES_USER=FCFZFbDSAqOOTvKUOoRQiXpFmZXZXmzX
+POSTGRES_PASSWORD=FUVanEIpOFt4dyeQIX57tkcNufNyJbnnpLW0yxEYdVpgBnVMtDAXaxMOvodsSBhG
