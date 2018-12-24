@@ -93,7 +93,7 @@ export default createDrawerNavigator(
       }
     },
     OwnerScreen: {
-      screen: OwnerScreen,
+      screen: HomeScreen,
       navigationOptions: {
         header: ({ state }) => {
           return {
